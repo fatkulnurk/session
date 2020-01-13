@@ -7,6 +7,6 @@ Bagian dari fatkulnurk/microframework untuk mengelola session.
 
 **Cara install**
 
-Lihat https://packagist.org/packages/fatkulnurk/helper
+Lihat https://packagist.org/packages/fatkulnurk/session
 
 
