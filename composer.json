@@ -1,6 +1,6 @@
 {
   "name": "fatkulnurk/session",
-  "description": "php session management",
+  "description": "PHP library for handling sessions",
   "type": "library",
   "authors": [
     {
@@ -11,7 +11,7 @@
   "minimum-stability": "stable",
   "autoload": {
     "psr-4": {
-      "Fatkulnurk\\Helper\\": "src/"
+      "Fatkulnurk\\Session\\": "src/"
     }
   },
   "require": {
