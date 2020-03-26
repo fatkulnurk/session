@@ -10,7 +10,7 @@ https://packagist.org/packages/fatkulnurk/session
 ````
 with composer
 ```
-composer require Josantonius/Session
+composer require fatkulnurk/session
 ```
 
 ### Under Development
